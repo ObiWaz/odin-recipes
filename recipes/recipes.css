@@ -1,17 +1,13 @@
-/* Sausage */
-.sausagepic {
-  height: 400px;
-  width: auto;
-}
-
-/* Ramen */
-.ramenpic {
-  height: 400px;
-  width: auto;
-}
-
-/* Blueberry */
+/* Shared styles */
+.sausagepic,
+.ramenpic,
 .bluepic {
   height: 400px;
   width: auto;
 }
+
+/* Sausage styles */
+
+/* Ramen styles */
+
+/* Blueberry styles */
