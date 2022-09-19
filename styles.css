@@ -1,0 +1,59 @@
+/*
+
+---Font sizes
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+---Font weights
+Default: 400
+Medium: 500
+Semi-bold: 600
+Bold: 700
+
+---Colors
+
+-Blues
+main: #182747
+#46526c
+#8c93a3
+#d1d4da
+
+-Browns
+main: #562B08
+#341a05
+#9a806b
+#ccbfb5
+
+-Greens
+main: #647E68
+#3c4c3e
+#a2b2a4
+#d1d8d2
+
+-Greys
+main: #D8D8D8
+#e8e8e8
+#979797
+#565656
+*/
+
+body {
+  background-color: #182747;
+  color: #d8d8d8;
+}
+
+a:link {
+  text-decoration: none;
+  color: #d1d4da;
+}
+a:visited {
+  text-decoration: none;
+  color: #8c93a3;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #647e68;
+}
+a:active {
+  text-decoration: none;
+}
